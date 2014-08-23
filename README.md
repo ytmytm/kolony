@@ -1,4 +1,3 @@
-kolony
-======
+Wersje gry "Kolony" z ma³ego Atari
 
-Recreation of Atari 800 game "Kolony"
+Recreation of "Kolony" game from Atari 800
